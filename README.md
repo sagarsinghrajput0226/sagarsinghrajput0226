@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Singh Rajput</h1>
 <h3 align="center">Full-Stack Developer with Machine Learning Expertise</h3>
 
-- 🌱 I’m currently learning **App Development, Spring Boot Advanced Features, and Machine Learning Algorithms, while exploring API Integrations.**
+- 🌱 I’m currently learning App Development, Spring Boot Advanced Features, and Machine Learning Algorithms, while exploring API Integrations.
 
-- 💬 Ask me about **how to tame algorithms, wrestle with bugs, or sneak a Shayari into your code comments—I've got you covered!**
+- 💬 Ask me about how to tame algorithms, wrestle with bugs, or sneak a Shayari into your code comments—I've got you covered!
 
 - ⚡ Fun fact **my Shayaris are known to fix broken hearts (but not broken code, yet).**
 
